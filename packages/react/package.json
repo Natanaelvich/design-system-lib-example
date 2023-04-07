@@ -15,6 +15,7 @@
     "typescript": "^5.0.4",
     "tsup": "^6.2.3",
     "@natanaelvich-ignite-ui/tokens": "*",
-    "@natanaelvich-ignite-ui/ts-config": "*"
+    "@natanaelvich-ignite-ui/ts-config": "*",
+    "@natanaelvich-ignite-ui/eslint-config": "*"
   }
 }
