@@ -1,5 +1,7 @@
 # Design System Lib Example
 
+Design System Lib example that uses Storybook, Radix, Stitches and is organized in a monorepo or turborepo.
+
 - Storybook;
 - Radix;
 - Stitches;
