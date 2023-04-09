@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "start-storybook -p 6006",
-    "build": "build-storybook"
+    "dev": "NODE_OPTIONS='--openssl-legacy-provider' start-storybook -p 6006",
+    "build": "NODE_OPTIONS='--openssl-legacy-provider' build-storybook"
   },
   "keywords": [],
   "author": "",
