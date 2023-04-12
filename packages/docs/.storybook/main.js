@@ -15,7 +15,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === "PRODUCTION") {
-      config.base = "/natanaelvich-ignite-ui-design-system/";
+      config.base = "/design-system-lib-example/";
     }
 
     return config;
