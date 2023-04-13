@@ -8,7 +8,8 @@
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=!docs && changeset publish"
+    "release": "turbo run build --filter=!docs && changeset publish",
+    "clean-gitignore": "node clean-gitignore.js"
   },
   "devDependencies": {
     "@changesets/cli": "^2.25.0",
