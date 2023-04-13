@@ -24,17 +24,54 @@ cd design-system-lib
 npm install
 ```
 
-To run Storybook and start developing components:
+## Scripts
+Os seguintes scripts estão disponíveis:
+### `dev`
+Para executar o projeto em modo de desenvolvimento, utilize o comando:
 
-npm run storybook
+```
+npm run dev
+```
 
-To build the library using TSUP:
+Este script utiliza o `turbo` para executar o projeto em modo de desenvolvimento em paralelo.
+### `build`
+Para construir o projeto, utilize o comando:
 
-```sh
+```
 npm run build
 ```
 
-## License
+Este script utiliza o `turbo` para construir o projeto.
+### `changeset`
+Para criar um novo `changeset`, utilize o comando:
+
+```
+npm run changeset
+```
+
+Este script utiliza o `changesets` para criar um novo `changeset`.
+### `version-packages`
+Para versionar os pacotes, utilize o comando:
+
+```
+npm run version-packages
+```
+
+Este script utiliza o `changesets` para versionar os pacotes.
+### `release`
+Para publicar o projeto, utilize o comando:
+
+```
+npm run release
+```
+
+Este script utiliza o `turbo` para construir o projeto e o `changesets` para publicar o projeto.
+### `clean-gitignore`
+Para limpar o arquivo `.gitignore`, utilize o comando:
+
+```
+npm run clean-gitignore
+```
 
 ## License
 
