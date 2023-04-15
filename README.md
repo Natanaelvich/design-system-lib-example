@@ -2,6 +2,15 @@
 
 This is an example Design System library that utilizes Storybook, Radix, Stitches, and is organized in a monorepo or turborepo.
 
+## Screenshots storybook
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/52014318/232246740-c4602202-9581-4115-88fa-e9f9b891bca7.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/52014318/232246761-1cc15a0a-48d8-473a-93df-bd9867cdd7f0.png" width="300"/> 
+  <img src="https://user-images.githubusercontent.com/52014318/232246775-c1758a71-ad74-4241-8ff8-151690590732.png" width="300"/>
+</p>
+
+
 ## Features
 
 - Storybook for UI component development and showcase
