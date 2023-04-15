@@ -1,0 +1,2 @@
+import{A as t}from"./index.afff1cf9.js";import"./index.9b85fbed.js";import"./iframe.c9f56f80.js";import"./index.6b0d8046.js";import"./jsx-runtime.218eb0ce.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/natanaelvich.png",alt:"Natanael Lima"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.624b188a.js.map
